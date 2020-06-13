@@ -1,0 +1,8 @@
+{
+  "model": "examplemod:models/item/windmill_shuriken.obj",
+  "detectCullableFaces": true,
+  "diffuseLighting": true,
+  "flip-v": true,
+  "ambientToFullbright": true,
+  "materialLibraryOverride": "examplemod:models/item/windmill_shuriken.mtl"
+}
